@@ -1,0 +1,16 @@
+{
+  "name": "DKU-STUDY.github.io",
+  "version": "1.0.0",
+  "description": "DKU-STUDY 소개 페이지",
+  "main": "index.js",
+  "repository": "https://github.com/DKU-STUDY/DKU-STUDY.github.io",
+  "author": "황준일 <junil.h@kakao.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev --port 8000",
+    "docs:build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
