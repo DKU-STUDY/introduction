@@ -27,6 +27,10 @@ sidebar: false
 
 1. [프로그래머스 하계 인턴 모집](https://programmers.co.kr/competitions/146/2020-summer-coding)
 
+## 학과 수업 자료 공유
+
+1. [소프트웨어학과 수업 자료 및 과제](https://github.com/DKU-STUDY/DKU-Software-Engineering-Logging)
+
 
 ## 추가적인 공부
 

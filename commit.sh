@@ -4,7 +4,7 @@
 set -e
 
 git add .
-git commit -m $*
+git commit -m "$*"
 git push origin master
 
 sh deploy.sh "$*"
