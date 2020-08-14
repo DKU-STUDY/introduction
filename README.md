@@ -1,57 +1,50 @@
 ---
 
 title: 단국대학교 알고리즘 스터디
-sidebar: false
 
 ---
 # 단국대학교 알고리즘 스터디
+2020년 04월 24일에 개설된 단국대학교 알고리즘 스터디 그룹입니다.
 
+## 멘토를 모집합니다.
+언어 무관 
+
+1. 코드리뷰 하는 것을 좋아한다.
+1. 코드리뷰를 해주고 싶다.
+1. 알고리즘 어느정도 풀어봤다
+1. 나는 개발자다
+1. 후배 개발자들을 위하는 마음이 가득하다
+
+## 스터디 취지
 우리 스터디 그룹의 **Main Topic**은 **알고리즘**입니다. 하지만 큰 줄기는 **취업**이 목적입니다.
 
-## 스터디 진행 방식
-
-스터디 진행은 GitHub를 통해서 이루어집니다.
-
-- [Algorithm Repository](https://github.com/DKU-STUDY/Algorithm) : 알고리즘 풀이한 내용을 관리합니다.
-  - [Pull Request](https://www.youtube.com/watch?v=pR5SNFyzdg8) 에 대한 사용방법을 숙지하고 있어야합니다.
-  - [프로그래머스](https://programmers.co.kr/), [Codlity](https://app.codility.com/programmers/lessons/1-iterations/) 등의 사이트에서 공부합니다.
+프로그래밍 공부는 혼자하는 것 이 아니라 사람들과 소통하는것이 중요합니다.  
+개발 공부을 해보고자 하는 사람들 **모두가 망설임 없이 참여**하였으면 좋겠다는 취지로 스터디를 만들게 되었습니다.
   
-- [TodayReview(일일회고)](https://github.com/DKU-STUDY/TodayReview) : 간단하게 일일회고를 작성합니다.
-  - 특이사항이 없는 경우 [Issue Tab](https://github.com/DKU-STUDY/TodayReview/issues) 을 이용합니다.
-  
-- [JavaScript Repository](https://github.com/DKU-STUDY/JavaScript) : Javascript와 관련된 내용을 기록합니다.
+하지만 가장 중요한건 적극적인 **본인의 의지** 끌고 가지 않습니다.
+기본적으로 저희는 "자기주도학습" 으로 유지하고 있습니다.
+공부하는 방향에 대해 알려드리거나, 공부한 것들에 대해 피드백을 해드릴 순 있지만
+공부하는걸 강제하는건 아니라는 것만 인지해주세요!
 
-- [InfoBoard](https://github.com/DKU-STUDY/InfoBoard/issues) : 개발과 관련된 각종 정보에 대해 기록합니다.
+스스로 참여율을 높여 의지를 서로 독려해 줄 수 있는 모임이 되었으면 좋겠습니다.
 
-## Big Event
+ 
+## 참여 조건 
+1. 전공 무관
+2. 캠퍼스 무관
+3. 학년 무관
+4. 프로그래밍 언어 무관 (javascript 환영)
+5. 학습 수준 무관 
 
-1. [프로그래머스 하계 인턴 모집](https://programmers.co.kr/competitions/146/2020-summer-coding)
-
-## 학과 수업 자료 공유
-
-1. [소프트웨어학과 수업 자료 및 과제](https://github.com/DKU-STUDY/DKU-Software-Engineering-Logging)
-
+* 알고리즘은 주로 깃허브 코드리뷰 형식으로 진행하고 있습니다. 
+필요 시, 디스코드를 활용한 개인 면담, 전체 면담 진행중! 요청하세요
 
 ## 추가적인 공부
-
-스터디 멤버와 다음과 같은 내용을 자율적으로 공부할 수 있습니다.
-
-- Front-end Develop
-
-  - HTML, CSS
-  - Javascript
-  - Typescript
-  - React.js
-  - Vue.js
-  
-- Back-end Develop
-
-  - Node.js
-  - Java Springframework
-  - Python Django/Flask
+스터디 멤버와 스터디를 만들어 자율적으로 공부할 수 있습니다.
   
 ## 스터디원
-
+// 아이콘이랑 나타나게 변경 합시다
+ 
 - [김형욱](https://github.com/DKU-STUDY/Profile/blob/master/김형욱_자기소개.md)
 - [박유림](https://github.com/DKU-STUDY/Profile/blob/master/박유림_자기소개.md)
 - [박은영](https://github.com/DKU-STUDY/Profile/blob/master/박은영_자기소개.md)
@@ -59,6 +52,4 @@ sidebar: false
 - [심지연](https://github.com/DKU-STUDY/Profile/blob/master/심지연_자기소개.md)
 - [이노원](https://github.com/DKU-STUDY/Profile/blob/master/이노원_자기소개.md)
 - [조우상](https://github.com/DKU-STUDY/Profile/blob/master/조우상_자기소개.md)
-- [홍윤은](https://github.com/DKU-STUDY/Profile/blob/master/홍윤은_자기소개.md)
 - [황준일](https://github.com/DKU-STUDY/Profile/blob/master/황준일_자기소개.md)
-- [희아](https://github.com/DKU-STUDY/Profile/blob/master/희아_자기소개.md)
