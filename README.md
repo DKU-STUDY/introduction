@@ -44,7 +44,8 @@ title: 단국대학교 알고리즘 스터디
   
 ## 스터디원
 // 아이콘이랑 나타나게 변경 합시다
- 
+
+- [이정현](https://github.com/DKU-STUDY/Profile/blob/master/이정현_자기소개.md) 
 - [김형욱](https://github.com/DKU-STUDY/Profile/blob/master/김형욱_자기소개.md)
 - [박유림](https://github.com/DKU-STUDY/Profile/blob/master/박유림_자기소개.md)
 - [박은영](https://github.com/DKU-STUDY/Profile/blob/master/박은영_자기소개.md)
