@@ -37,14 +37,6 @@
 ![image](https://user-images.githubusercontent.com/31977543/90223663-70858980-de49-11ea-9ad8-1c624e153447.png)
 
 
-## Pull Request(PR) 실습
-- [PR 튜토리얼 영상](https://www.youtube.com/watch?v=pR5SNFyzdg8)을 보면서 튜토리얼을 한번 꼭 따라해 보세요
-- Git 이 익숙하지 않은 분은 아래 참고서를 읽어봐주세요!, 아래 참고서를 읽고서도 어려움이 있으면 디스코드 채널에서 질문해 주시면 친절하게 알려드립니다. 
-    - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
-
-
-    
-  
 
 
  
